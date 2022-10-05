@@ -1,3 +1,5 @@
+# Information
+
 This is the Automation challenge from HackTheBox Cyber Apocalypse 2022
 
 The zip file 'forensics_automation.zip' contains a single file called 'capture.pcap' which has all that is needed to complete this challenge.
